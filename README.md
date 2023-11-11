@@ -1,5 +1,5 @@
 
-# VitalyApp
+# VitalidApp
 Este proyecto es parte del curso Fullstack Web Developer de EGG Cooperation y tiene como objetivo desarrollar una plataforma de provisión de servicios de salud para pacientes.
 
 La aplicación permitirá a un colectivo de profesionales de la salud auto-organizados administrar sus servicios y facilitar a los pacientes la búsqueda y reserva de turnos médicos.
